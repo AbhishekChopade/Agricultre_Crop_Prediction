@@ -1,4 +1,4 @@
-# Agriculture-crop-image-Prediction
+# Agriculture Crop Image Prediction
 Predicting various agricultural crop images of wheat, rice(Paddy), sugarcane, jute, maize( Corn)
 
 # Context
